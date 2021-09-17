@@ -1,0 +1,17 @@
+.container {
+  position: relative; 
+}
+
+.viewport {
+  width: 400px;
+  height: 300px;
+}
+
+.viewport canvas,
+.viewport video {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
