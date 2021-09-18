@@ -26,7 +26,7 @@ function App() {
     <>
       <div className="container">
         <div className="row justify-content-center mb-3 mt-3">
-          <div className="col-6 d-flex flex-column justify-content-center">
+          <div className="col-8 d-flex flex-column justify-content-center">
             <label htmlFor="scannerSelect">Select Scanner</label>
             <select onChange={handleSelectChange} defaultValue={0} id="scannerSelect">
               <option value={0} disabled>Select...</option>
@@ -36,7 +36,7 @@ function App() {
           </div>
         </div>
         <div className="row justify-content-center mb-3 mt-3">
-          <div className="col-6 d-flex justify-content-center">
+          <div className="col-10 d-flex justify-content-center">
             {selectValue && 
             <ScannerContainer 
               onScan={scanVinCodeHandler} 
