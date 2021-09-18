@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vin-code-reader%20/static/css/main.1c5e7ab7.chunk.css",
-    "main.js": "/vin-code-reader%20/static/js/main.4dd09421.chunk.js",
-    "main.js.map": "/vin-code-reader%20/static/js/main.4dd09421.chunk.js.map",
-    "runtime-main.js": "/vin-code-reader%20/static/js/runtime-main.bdd5e825.js",
-    "runtime-main.js.map": "/vin-code-reader%20/static/js/runtime-main.bdd5e825.js.map",
-    "static/css/2.818011ed.chunk.css": "/vin-code-reader%20/static/css/2.818011ed.chunk.css",
-    "static/js/2.cacae807.chunk.js": "/vin-code-reader%20/static/js/2.cacae807.chunk.js",
-    "static/js/2.cacae807.chunk.js.map": "/vin-code-reader%20/static/js/2.cacae807.chunk.js.map",
-    "index.html": "/vin-code-reader%20/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/vin-code-reader%20/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.1c5e7ab7.chunk.css.map": "/vin-code-reader%20/static/css/main.1c5e7ab7.chunk.css.map",
-    "static/js/2.cacae807.chunk.js.LICENSE.txt": "/vin-code-reader%20/static/js/2.cacae807.chunk.js.LICENSE.txt"
+    "main.css": "/vin-code-reader/static/css/main.1c5e7ab7.chunk.css",
+    "main.js": "/vin-code-reader/static/js/main.4dd09421.chunk.js",
+    "main.js.map": "/vin-code-reader/static/js/main.4dd09421.chunk.js.map",
+    "runtime-main.js": "/vin-code-reader/static/js/runtime-main.55d7a75f.js",
+    "runtime-main.js.map": "/vin-code-reader/static/js/runtime-main.55d7a75f.js.map",
+    "static/css/2.818011ed.chunk.css": "/vin-code-reader/static/css/2.818011ed.chunk.css",
+    "static/js/2.cacae807.chunk.js": "/vin-code-reader/static/js/2.cacae807.chunk.js",
+    "static/js/2.cacae807.chunk.js.map": "/vin-code-reader/static/js/2.cacae807.chunk.js.map",
+    "index.html": "/vin-code-reader/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/vin-code-reader/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.1c5e7ab7.chunk.css.map": "/vin-code-reader/static/css/main.1c5e7ab7.chunk.css.map",
+    "static/js/2.cacae807.chunk.js.LICENSE.txt": "/vin-code-reader/static/js/2.cacae807.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdd5e825.js",
+    "static/js/runtime-main.55d7a75f.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.cacae807.chunk.js",
     "static/css/main.1c5e7ab7.chunk.css",
