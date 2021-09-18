@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/vin-code-reader/static/css/main.1c5e7ab7.chunk.css",
-    "main.js": "/vin-code-reader/static/js/main.a1aba0c7.chunk.js",
-    "main.js.map": "/vin-code-reader/static/js/main.a1aba0c7.chunk.js.map",
+    "main.css": "/vin-code-reader/static/css/main.c607e64f.chunk.css",
+    "main.js": "/vin-code-reader/static/js/main.74e6f9a4.chunk.js",
+    "main.js.map": "/vin-code-reader/static/js/main.74e6f9a4.chunk.js.map",
     "runtime-main.js": "/vin-code-reader/static/js/runtime-main.55d7a75f.js",
     "runtime-main.js.map": "/vin-code-reader/static/js/runtime-main.55d7a75f.js.map",
     "static/css/2.818011ed.chunk.css": "/vin-code-reader/static/css/2.818011ed.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.cacae807.chunk.js.map": "/vin-code-reader/static/js/2.cacae807.chunk.js.map",
     "index.html": "/vin-code-reader/index.html",
     "static/css/2.818011ed.chunk.css.map": "/vin-code-reader/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.1c5e7ab7.chunk.css.map": "/vin-code-reader/static/css/main.1c5e7ab7.chunk.css.map",
+    "static/css/main.c607e64f.chunk.css.map": "/vin-code-reader/static/css/main.c607e64f.chunk.css.map",
     "static/js/2.cacae807.chunk.js.LICENSE.txt": "/vin-code-reader/static/js/2.cacae807.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.55d7a75f.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.cacae807.chunk.js",
-    "static/css/main.1c5e7ab7.chunk.css",
-    "static/js/main.a1aba0c7.chunk.js"
+    "static/css/main.c607e64f.chunk.css",
+    "static/js/main.74e6f9a4.chunk.js"
   ]
 }
