@@ -36,7 +36,7 @@ function App() {
           </div>
         </div>
         <div className="row justify-content-center mb-3 mt-3">
-          <div className="col-12 d-flex justify-content-center">
+          <div className="col-8 d-flex justify-content-center">
             {selectValue && 
             <ScannerContainer 
               onScan={scanVinCodeHandler} 
