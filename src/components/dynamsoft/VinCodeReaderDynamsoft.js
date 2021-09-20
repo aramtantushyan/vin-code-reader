@@ -3,7 +3,6 @@ import '../../dbr'
 import { BarcodeScanner, EnumBarcodeFormat } from 'dynamsoft-javascript-barcode';
 
 import styles from './VinCodeReaderDynamsoft.module.css'
-import { propTypes } from 'react-bootstrap/esm/Image';
 
 function VinCodeReaderDynamsoft({isScannerVisible, onScanValueChange}) {
   const videoContainer = useRef();
